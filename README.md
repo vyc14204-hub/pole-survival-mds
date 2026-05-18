@@ -15,6 +15,10 @@ described in:
   - Cell 1: driver script reproducing the Rossi recidivism analysis 
     (Tables 1, 3, 4, 5 and Figures 1, 2, 3 in the paper)
 
+
+- `pole_survival_MDS_simulation.ipynb` — simulation study reproducing
+  Table 6 and Figure 4 in the paper
+
 ## Requirements
 
 - Python 3.9+
@@ -33,3 +37,5 @@ figures) are written to the working directory.
 ## License
 
 MIT License (see LICENSE).
+
+
